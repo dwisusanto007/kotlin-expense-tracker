@@ -1,4 +1,4 @@
-package com.dwi.expensetracker.expense_tracker
+package com.dwi.expensetracker
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
